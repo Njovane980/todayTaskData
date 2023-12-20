@@ -3,7 +3,7 @@
         {
             "title": "an aspiring software developer",
             "color": "rgb(57, 153, 0)"
-        }, 
+        }
     ],
     "about": [
         "I graduated at the University of Fort Hare with a Bachelor and Honours Degree in Human Settlement majoring in Project Management and currently enrolled at Life Choices Coding Academy for a full-stack develeopment course"
@@ -36,7 +36,7 @@
             "description": "I got my NSC",
             "place": "Matsa High School",
             "type": "certificate",
-        },
+        }
     ],
     "skills": [
         {
