@@ -14,28 +14,28 @@
             "year": 2023,
             "description": "I am studying towards a full-stack development qualification",
             "place": "Life Choices Coding Academy",
-            "type": "certificate",
+            "type": "certificate"
         },
         {
             "id": 2,
             "year": 2022,
             "description": "Graduated for Honours degree in Project Management",
             "place": "University fo Fort Hare",
-            "type": "Post-Graduate Degree",
+            "type": "Post-Graduate Degree"
         },
         {
             "id": 3,
             "year": 2019,
             "description": "I got my Degree in Human Settlements",
             "place": "University fo Fort Hare",
-            "type": "Undergraduate degree",
+            "type": "Undergraduate degree"
         },
         {
             "id": 4,
             "year": 2016,
             "description": "I got my NSC",
             "place": "Matsa High School",
-            "type": "certificate",
+            "type": "certificate"
         }
     ],
     "skills": [
